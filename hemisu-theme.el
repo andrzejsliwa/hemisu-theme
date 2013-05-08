@@ -132,8 +132,9 @@
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
+
 ;; Local Variables:
 ;; no-byte-compile: t
 ;; End:
-
+(provide 'hemisu-theme)
 ;;; hemisu-theme.el ends here
