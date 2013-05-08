@@ -1,5 +1,8 @@
 ;;; hemisu.el --- Hemisu for Emacs.
 
+;; based on Hemisu vim theme https://github.com/noahfrederick/Hemisu
+;; of Noah Frederick
+
 ;; Copyright (C) 2013 Andrzej Sliwa
 
 ;; Author: Andrzej Sliwa
